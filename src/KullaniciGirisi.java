@@ -1,8 +1,3 @@
-# Kullanici-Girisi-Programi
-Java Kullanici Girisi Programi
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
